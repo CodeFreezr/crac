@@ -1,5 +1,5 @@
-# CR&CC
-CR&CC - Code-Riddles & -Challenges, -Collections: 
+# CRaCC
+CRaCC - Code-Riddles and -Challenges, -Collections:  
 
 A polyglot List of Code-Riddles, Challenges, -Collections, -Puzzles, -Examples and -Snippets and more about plain sourcecode. Because code is poem, so cracc is like poetry slam.
 
