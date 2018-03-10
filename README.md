@@ -17,12 +17,22 @@ For the moment it's just about  collecting all the stuff, perhaps later we will 
 
 ## First Aspirants:
 
-- RosettaCode.org
-- PLEAC
+- [RosettaCode.org](http://rosettacode.org)  
+- [PLEAC](http://pleac.sourceforge.net)
 - @exercism_io 
 - gobeys
-- CodeGolf:  
-https://codegolf.stackexchange.com/  
-https://area51.stackexchange.com/proposals/4570/code-golf-programming-puzzles  
+- Advent-of-Code
+- [HackerRank](https://www.hackerrank.com/)   
+- [CodeGolf](https://codegolf.stackexchange.com/) via [Area51](https://area51.stackexchange.com/proposals/4570/code-golf-programming-puzzles)       
+- [CodinGame](https://www.codingame.com/start)    
+- [Coderbyte](https://coderbyte.com/)   
+- [TopCoder](https://www.topcoder.com/challenges/)   
+- [LeetCode](https://leetcode.com/)   
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)   
+- [Codeforces](http://codeforces.com/)   
+- []()   
+- [CodeChef](https://www.codechef.com/)   
+- [Codewars](https://www.codewars.com/)   
+- [CodeFights](https://codefights.com/)   
 
 
