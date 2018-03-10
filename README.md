@@ -14,3 +14,15 @@ For the moment it's just about  collecting all the stuff, perhaps later we will 
 - Collection
 - Snippet
 - Example
+
+## First Aspirants:
+
+- RosettaCode.org
+- PLEAC
+- @exercism_io 
+- gobeys
+- CodeGolf:  
+https://codegolf.stackexchange.com/  
+https://area51.stackexchange.com/proposals/4570/code-golf-programming-puzzles  
+
+
