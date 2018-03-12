@@ -44,8 +44,8 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 
 1. [RosettaCode.org](http://rosettacode.org)  
 1. [PLEAC](http://pleac.sourceforge.net)
-1. @exercism_io 
-1. gobeys
+1. [exercism_io](http://exercism.io/)
+1. [gobeys](https://codefreezr.github.io/gobyes/)
   
     
 ## First Aspirants (Challanges)
@@ -77,5 +77,4 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 1. [groovy-console](http://groovyconsole.appspot.com/)
 1. [Java-Play](https://ideone.com/) 
 1. [Gambas](https://gambas-playground.proko.eu/)
-1. []()
 
