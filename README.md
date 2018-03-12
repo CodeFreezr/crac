@@ -31,7 +31,7 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 ![JS](https://img.shields.io/badge/tag-JS-orange.svg "Tag: JS") 
 ![Python](https://img.shields.io/badge/tag-Python-orange.svg "Tag: Python") 
 ![Poly](https://img.shields.io/badge/tag-Poly-red.svg "Tag: Poly")   
-  
+
 .  
 .  
 .  
@@ -39,8 +39,6 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 .  
 .  
 .  
-  
-<nobr/><nobr/><nobr/>
 
 ## First Aspirants (Collections)
 
