@@ -1,7 +1,6 @@
-# CRaCC
-CRaCC - Code-Riddles and -Challenges, -Collections:  
-
-A polyglot List of Code-Riddles, Challenges, -Collections, -Puzzles, -Examples and -Snippets and more about plain sourcecode. Because code is poem, so cracc is like poetry slam.
+# Code Riddles & Collections, short: crc
+  
+A polyglot List of Code-Riddles, Challenges, -Collections, -Puzzles, -Playgrounds, -Examples and -Snippets and more about plain sourcecode. Because code is poem, so crc is like poetry slam.
 
 ---
 For the moment it's just about  collecting all the stuff, perhaps later we will elevate this to an awesome-style list. Pleas feel free to new proposal via issue or better via pull request.
@@ -11,9 +10,18 @@ For the moment it's just about  collecting all the stuff, perhaps later we will 
 - Riddle
 - Puzzle
 - Challenge
+- Playgrounds
 - Collection
 - Snippet
 - Example
+
+## Categories:
+
+* Challenges
+ * Riddles
+ * Challenges
+* Collections
+* Playgrounds
 
 ## First Aspirants:
 
