@@ -1,9 +1,9 @@
-# Code Riddles & Collections, short: crc
+# Code Riddles, Collections & Playgrounds
   
 A polyglot List of Code-Riddles, Challenges, -Collections, -Puzzles, -Playgrounds, -Examples and -Snippets and more about plain sourcecode. Because code is poem, so crc is like poetry slam.
 
 ---
-For the moment it's just about  collecting all the stuff, perhaps later we will elevate this to an awesome-style list. Pleas feel free to new proposal via issue or better via pull request.
+For the moment it's just about  collecting all the stuff, perhaps later we will elevate this to an awesome-style list. Please feel free to new proposal at first via issue. Later if the structure is a bit more settled, better via pull request.
 
 ## Tags:
 
