@@ -16,11 +16,10 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 
 ## Categories:
 
-* Challenges  
+* Challenges (green) 
 ![Riddle](https://img.shields.io/badge/tag-Riddle-green.svg "Tag: Riddle") 
 ![Puzzle](https://img.shields.io/badge/tag-Puzzle-green.svg "Tag: Puzzle") 
 ![Competition](https://img.shields.io/badge/tag-Competition-green.svg "Tag: Competition")  
-
 
 * Collections (blue)  
 ![TaskSolver](https://img.shields.io/badge/tag-TaskSolver-blue.svg "Tag: TaskSolver") 
@@ -30,7 +29,7 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 ![Corpus](https://img.shields.io/badge/tag-Corpus-blue.svg "Tag: Corpus") 
 ![Learning](https://img.shields.io/badge/tag-Learning-blue.svg "Tag: Learning")  
 
-* Playgrounds (yellow)  
+* Playgrounds (orange)  
 Go, Groovy, JS, CSS, HTML, Python, Graphviz
 
 ## First Aspirants:
