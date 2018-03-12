@@ -30,8 +30,14 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 ![Learning](https://img.shields.io/badge/tag-Learning-green.svg "Tag: Learning")  
 
 * Playgrounds (orange)  
-![Go](https://img.shields.io/badge/tag-Go-orange.svg "Tag: Go")  
-Groovy, JS, CSS, HTML, Python, Graphviz
+![CSS](https://img.shields.io/badge/tag-CSS-orange.svg "Tag: CSS") 
+![HTML](https://img.shields.io/badge/tag-HTML-orange.svg "Tag: HTML") 
+![Go](https://img.shields.io/badge/tag-Go-orange.svg "Tag: Go") 
+![Graphviz](https://img.shields.io/badge/tag-Graphviz-orange.svg "Tag: Graphviz") 
+![Groovy](https://img.shields.io/badge/tag-Groovy-orange.svg "Tag: Groovy") 
+![JS](https://img.shields.io/badge/tag-JS-orange.svg "Tag: JS") 
+![Python](https://img.shields.io/badge/tag-Python-orange.svg "Tag: Python")  
+
 
 ## First Aspirants:
 
