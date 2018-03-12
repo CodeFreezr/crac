@@ -27,8 +27,8 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 ![Go](https://img.shields.io/badge/tag-Go-green.svg "Tag: Go") 
 ![Graphviz](https://img.shields.io/badge/tag-Graphviz-green.svg "Tag: Graphviz") 
 ![Groovy](https://img.shields.io/badge/tag-Groovy-orange.svg "Tag: Groovy") 
-![JS](https://img.shields.io/badge/tag-JS-green.svg "Tag: JS") 
-![Python](https://img.shields.io/badge/tag-Python-green.svg "Tag: Python") 
+![JS](https://img.shields.io/badge/tag-JS-orange.svg "Tag: JS") 
+![Python](https://img.shields.io/badge/tag-Python-orange.svg "Tag: Python") 
 ![Poly](https://img.shields.io/badge/tag-Poly-green.svg "Tag: Poly")   
   
 ---    
