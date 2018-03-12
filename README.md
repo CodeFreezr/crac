@@ -30,7 +30,7 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 ![Groovy](https://img.shields.io/badge/tag-Groovy-orange.svg "Tag: Groovy") 
 ![JS](https://img.shields.io/badge/tag-JS-orange.svg "Tag: JS") 
 ![Python](https://img.shields.io/badge/tag-Python-orange.svg "Tag: Python")  
-  
+![Poly](https://img.shields.io/badge/tag-Poly-orange.svg "Tag: Poly")   
   
 ## First Aspirants (Collections)
 
