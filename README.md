@@ -58,4 +58,3 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 1. [Codewars](https://www.codewars.com/)   
 1. [CodeFights](https://codefights.com/)   
 
-
