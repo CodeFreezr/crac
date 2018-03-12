@@ -16,10 +16,10 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 
 ## Categories:
 
-* Challenges (green)
+* Challenges  
 ![Riddle](https://img.shields.io/badge/tag-Riddle-brightgreen.svg "Tag: Riddle")
 ![Puzzle](https://img.shields.io/badge/tag-Puzzle-brightgreen.svg "Tag: Puzzle")
-![Challenge](https://img.shields.io/badge/tag-Challenge-brightgreen.svg "Tag: Challenge")  
+![Competition](https://img.shields.io/badge/tag-Competition-brightgreen.svg "Tag: Competition")  
 
 * Collections (blue)
 * Playgrounds (yellow)
