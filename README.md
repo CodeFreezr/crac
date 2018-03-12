@@ -1,6 +1,6 @@
 # crc-play: Code Riddles, Collections & Playgrounds
   
-A curated List of Code-Riddles, -Challenges, -Collections, -Puzzles, -Playgrounds, -Examples and -Snippets and more about plain polyglot sourcecode. Because code is poem, so crc-play is like a 24/7 poetry slam.
+A curated List of Code-Riddles, -Challenges, -Collections, -Puzzles, -Playgrounds, -Examples and -Snippets and more about plain polyglot sourcecode. Because code is poem, so »crc-play« is like a 24/7 poetry slam.
 
 For the moment it's just about collecting all the stuff in a wild hunt, perhaps later we will elevate this to an awesome-style list. Please feel free for a new proposal at first via issue. Later if the structure is a bit more settled, better via pull request.
   
