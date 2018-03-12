@@ -6,9 +6,9 @@ A curated List of Code-Riddles, -Challenges, -Collections, -Puzzles, -Playground
 For the moment it's just about collecting all the stuff in a wild hunt, perhaps later we will elevate this to an awesome-style list. Please feel free for a new proposal at first via issue. Later if the structure is a bit more settled, better via pull request.
 
 ## Tags:
-![Riddle](https://img.shields.io/badge/tag-Riddle-brightgreen.svg "Logo Title Text 1")
-- Riddle
-- Puzzle
+![Riddle](https://img.shields.io/badge/tag-Riddle-brightgreen.svg "Tag: Riddle")
+![Puzzle](https://img.shields.io/badge/tag-Puzzle-brightgreen.svg "Tag: Puzzle")
+
 - Challenge
 - Playgrounds
 - Collection
