@@ -17,12 +17,21 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 ## Categories:
 
 * Challenges  
-![Riddle](https://img.shields.io/badge/tag-Riddle-brightgreen.svg "Tag: Riddle")
-![Puzzle](https://img.shields.io/badge/tag-Puzzle-brightgreen.svg "Tag: Puzzle")
-![Competition](https://img.shields.io/badge/tag-Competition-brightgreen.svg "Tag: Competition")  
+![Riddle](https://img.shields.io/badge/tag-Riddle-green.svg "Tag: Riddle") 
+![Puzzle](https://img.shields.io/badge/tag-Puzzle-green.svg "Tag: Puzzle") 
+![Competition](https://img.shields.io/badge/tag-Competition-green.svg "Tag: Competition")  
 
-* Collections (blue)
-* Playgrounds (yellow)
+
+* Collections (blue)  
+![TaskSolver](https://img.shields.io/badge/tag-TaskSolver-blue.svg "Tag: TaskSolver") 
+![Chrestomathy](https://img.shields.io/badge/tag-Chrestomathy-blue.svg "Tag: Chrestomathy") 
+![Snippets](https://img.shields.io/badge/tag-Snippets-blue.svg "Tag: Snippets") 
+![Examples](https://img.shields.io/badge/tag-Examples-blue.svg "Tag: Examples") 
+![Corpus](https://img.shields.io/badge/tag-Corpus-blue.svg "Tag: Corpus") 
+![Learning](https://img.shields.io/badge/tag-Learning-blue.svg "Tag: Learning")  
+
+* Playgrounds (yellow)  
+Go, Groovy, JS, CSS, HTML, Python, Graphviz
 
 ## First Aspirants:
 
