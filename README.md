@@ -25,12 +25,12 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 ### Playgrounds
 ![CSS](https://img.shields.io/badge/tag-CSS-orange.svg "Tag: CSS") 
 ![HTML](https://img.shields.io/badge/tag-HTML-orange.svg "Tag: HTML") 
-![Go](https://img.shields.io/badge/tag-Go-orange.svg "Tag: Go") 
+![Go](https://img.shields.io/badge/tag-Go-green.svg "Tag: Go") 
 ![Graphviz](https://img.shields.io/badge/tag-Graphviz-orange.svg "Tag: Graphviz") 
 ![Groovy](https://img.shields.io/badge/tag-Groovy-orange.svg "Tag: Groovy") 
-![JS](https://img.shields.io/badge/tag-JS-orange.svg "Tag: JS") 
+![JS](https://img.shields.io/badge/tag-JS-green.svg "Tag: JS") 
 ![Python](https://img.shields.io/badge/tag-Python-orange.svg "Tag: Python") 
-![Poly](https://img.shields.io/badge/tag-Poly-orange.svg "Tag: Poly")   
+![Poly](https://img.shields.io/badge/tag-Poly-green.svg "Tag: Poly")   
   
 ---    
     
