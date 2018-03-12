@@ -48,7 +48,7 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 1. [gobeys](https://codefreezr.github.io/gobyes/)
   
     
-## First Aspirants (Challanges)
+## First Aspirants (Challenges)
 1. Advent-of-Code
 1. [HackerRank](https://www.hackerrank.com/)   
 1. [CodeGolf](https://codegolf.stackexchange.com/) via [Area51](https://area51.stackexchange.com/proposals/4570/code-golf-programming-puzzles)       
