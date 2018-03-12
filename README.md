@@ -1,4 +1,4 @@
-# crc-play: Code Riddles, Collections & Playgrounds
+# Code Riddles, Collections & Playgrounds
   
 A curated List of Code-Riddles, -Challenges, -Collections, -Puzzles, -Playgrounds, -Examples and -Snippets and more about plain polyglot sourcecode. Because code is poem, so »crc-play« is like a 24/7 poetry slam.
 
