@@ -4,7 +4,7 @@ A curated List of Code-Riddles, -Challenges, -Collections, -Puzzles, -Playground
 
 For the moment it's just about collecting all the stuff in a wild hunt, perhaps later we will elevate this to an awesome-style list. Please feel free for a new proposal at first via issue. Later if the structure is a bit more settled, better via pull request.
   
-    
+<nobr/><nobr/><nobr/>    
     
 ## Tags & Categories:
 
@@ -31,8 +31,10 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 ![Python](https://img.shields.io/badge/tag-Python-orange.svg "Tag: Python") 
 ![Poly](https://img.shields.io/badge/tag-Poly-red.svg "Tag: Poly")   
   
+<nobr/><nobr/><nobr/>  
 ---    
-    
+<nobr/><nobr/><nobr/>
+
 ## First Aspirants (Collections)
 
 1. [RosettaCode.org](http://rosettacode.org)  
