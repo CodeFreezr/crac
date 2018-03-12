@@ -4,7 +4,9 @@ A curated List of Code-Riddles, -Challenges, -Collections, -Puzzles, -Playground
 
 ---
 For the moment it's just about collecting all the stuff in a wild hunt, perhaps later we will elevate this to an awesome-style list. Please feel free for a new proposal at first via issue. Later if the structure is a bit more settled, better via pull request.
-
+  
+    
+    
 ## Tags & Categories:
 
 ### Challenges
@@ -28,15 +30,16 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 ![Groovy](https://img.shields.io/badge/tag-Groovy-orange.svg "Tag: Groovy") 
 ![JS](https://img.shields.io/badge/tag-JS-orange.svg "Tag: JS") 
 ![Python](https://img.shields.io/badge/tag-Python-orange.svg "Tag: Python")  
-
-
+  
+  
 ## First Aspirants (Collections)
 
 1. [RosettaCode.org](http://rosettacode.org)  
 1. [PLEAC](http://pleac.sourceforge.net)
 1. @exercism_io 
 1. gobeys
-
+  
+    
 ## First Aspirants (Challanges)
 1. Advent-of-Code
 1. [HackerRank](https://www.hackerrank.com/)   
@@ -50,14 +53,21 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 1. [CodeChef](https://www.codechef.com/)   
 1. [Codewars](https://www.codewars.com/)   
 1. [CodeFights](https://codefights.com/)   
-
+  
+    
 ## First Aspirants (Playgrounds)
+1. [repl](https://repl.it/)
+1. [jsfiddle](https://jsfiddle.net/)
+1. [codepen](https://codepen.io/#)
+1. [graphviz](http://graphviz.it)
+1. [GraphvizOnline](http://dreampuf.github.io/GraphvizOnline/)
+1. [viz-js](http://viz-js.com/)
+1. [webgraphviz](http://www.webgraphviz.com/)
+1. [goplay](https://goplay.space/)
+1. [play-golang](https://play.golang.org/)
+1. [groovy-playground](https://groovy-playground.appspot.com/)
+1. [groovy-console](http://groovyconsole.appspot.com/)
+1. [Java-Play](https://ideone.com/) 
+1. [Gambas](https://gambas-playground.proko.eu/)
 1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+
