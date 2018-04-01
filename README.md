@@ -61,6 +61,7 @@ For the moment it's just about collecting all the stuff in a wild hunt, perhaps 
 1. [CodeChef](https://www.codechef.com/)   
 1. [Codewars](https://www.codewars.com/)   
 1. [CodeFights](https://codefights.com/)   
+1. [Project Euler](https://projecteuler.net/)
   
     
 ## First Aspirants (Playgrounds)
